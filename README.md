@@ -1,2 +1,2 @@
- - [DEMO LINK](https://oliinykKostya.github.io/<repo_name>/)
+ - [DEMO LINK](https://oliinykKostya.github.io/layout_db2limited/)
  - [FIGMA](https://www.google.com/url?q=https://www.figma.com/file/Tm6LiEgTfW9ygv7W3HY6wbuG/Untitled?node-id%3D1%253A2&sa=D&ust=1595959201652000&usg=AFQjCNGQkDH9jtsPlZmnTeDdEwg49IMjTQ)
