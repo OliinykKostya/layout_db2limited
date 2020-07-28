@@ -1,0 +1,80 @@
+.nav {
+  height: 705px;
+  width: 80px;
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+  }
+
+  &__item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    width: 80px;
+    margin-bottom: 15px;
+  }
+
+  &__link {
+
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 20%;
+    
+
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+
+    &--active {
+      position: absolute;
+      left: 0;
+      height: 48px;
+      border-left: 4px solid #0ad69c;
+    }
+
+    &--message {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      top: 4px;
+      right: 20px;
+      width: 19px;
+      height: 19px;
+      border-radius: 50%;
+
+      background-color: #2a74db;
+
+      &--amount {
+        font-family: "Roboto", sans-serif;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 17px;
+        letter-spacing: 0.28px;
+        color: #fff;
+      }
+    }
+  }
+
+  &__calendar {
+    background-image: url(../images/calendar.svg);
+  }
+  &__person {
+    background-image: url(../images/myProfile.svg);
+  }
+  &__tools {
+    background-image: url(../images/tools.svg);
+  }
+  &__team {
+    background-image: url(../images/team-2.svg);
+  }
+  &__message {
+    background-image: url(../images/messages.svg);
+  }
+}

@@ -1,0 +1,28 @@
+.breadcrumbs {
+
+  display: flex;
+  align-items: center;
+  width: 309px;
+
+  &__arrow {
+    display: block;
+    width: 6px;
+    height: 8.45px;
+    background-image: url(../images/Vector.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+    margin-right: 12px;
+  }
+
+  &__link {
+    margin-right: 12px;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.69px;
+    color: #252f48;
+  }
+}

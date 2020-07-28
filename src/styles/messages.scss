@@ -1,0 +1,18 @@
+.messages {
+  display: flex;
+  height: 556px;
+  width: 854px;
+  margin-left: 124px;
+  
+  &__item {
+    list-style: none;
+  }
+
+  &__nav {
+    width: 300px;
+  }
+
+  &__card--box {
+    text-decoration: none;
+  }
+}

@@ -1,7 +1,27 @@
 @import "utils";
 @import "fonts";
 @import "typography";
+@import "reset";
+@import "header";
+@import "breadcrumbs";
+@import "account";
+@import "nav";
+@import "left-bar";
+@import "messages";
+@import "card";
+@import "section";
+@import "chat";
+@import "border";
+
+html {
+  background: #e5e5e5;
+}
 
 body {
-  background: $c-gray;
+  position: relative;
+  width: 1022px;
+  height: 766px;
+  margin-left: 50px;
+  margin-top: 50px;
+  background: #f9fafc;
 }

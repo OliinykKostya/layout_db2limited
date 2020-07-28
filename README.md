@@ -1,4 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+ - [DEMO LINK](https://oliinykKostya.github.io/<repo_name>/)
+ - [FIGMA](https://www.google.com/url?q=https://www.figma.com/file/Tm6LiEgTfW9ygv7W3HY6wbuG/Untitled?node-id%3D1%253A2&sa=D&ust=1595959201652000&usg=AFQjCNGQkDH9jtsPlZmnTeDdEwg49IMjTQ)

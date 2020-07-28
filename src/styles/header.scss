@@ -1,0 +1,19 @@
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 44px;
+  width: 1024px;
+  height: 60px;
+
+  background-color: white;
+  border-bottom: 1px solid #dae4f2;
+  &__menu {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-left: 120px;
+  }
+}
